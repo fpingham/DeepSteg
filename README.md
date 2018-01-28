@@ -27,7 +27,7 @@ The architecture includes a Prep Network, a Hidding Network and a Reveal Network
 ![Idea](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea2.png)
 
 ### Errors
-Error term 1 (difference between cover and hidding image) is backprops only through first two networks while Error term 2 (differnce between secret and output image) backprops through all four networks.
+Error Term 1 (difference between cover and hidding image) is backprops only through first two networks while Error Term 2 (differnce between secret and output image) backprops through all four networks.
 
 ![Errors](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea.png)
 
