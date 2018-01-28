@@ -22,10 +22,14 @@ our approach compresses and distributes the secret image’s representation acro
 all of the available bits.
 
 ### Idea
-![Architecture](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea2.png)
+The architecture includes a Prep Network, a Hidding Network and a Reveal Network. Input is secret and cover images and output is hidden image (output of Hidding Network) and output image (output of Reveal Network).
 
-### Architecture
-![Idea](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea.png)
+![Idea](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea2.png)
+
+### Errors
+Error term 1 (difference between cover and hidding image) is backprops only through first two networks while Error term 2 (differnce between secret and output image) backprops through all four networks.
+
+![Errors](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea.png)
 
 ### Results
 
