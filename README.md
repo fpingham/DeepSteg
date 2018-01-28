@@ -24,6 +24,8 @@ all of the available bits.
 ### Architecture
 
 ![Idea](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea.png)
+
+
 ![Architecture](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea2.png)
 
 ### Results
