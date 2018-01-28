@@ -22,11 +22,10 @@ our approach compresses and distributes the secret image’s representation acro
 all of the available bits.
 
 ### Architecture
-
-![Idea](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea.png)
-
-asdfa
 ![Architecture](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea2.png)
+
+### Idea
+![Idea](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea.png)
 
 ### Results
 
