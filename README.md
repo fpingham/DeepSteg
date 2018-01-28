@@ -21,10 +21,10 @@ that encode the secret message within the least significant bits of the carrier 
 our approach compresses and distributes the secret image’s representation across
 all of the available bits.
 
-### Architecture
+### Idea
 ![Architecture](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea2.png)
 
-### Idea
+### Architecture
 ![Idea](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea.png)
 
 ### Results
