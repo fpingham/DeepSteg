@@ -21,3 +21,9 @@ that encode the secret message within the least significant bits of the carrier 
 our approach compresses and distributes the secret image’s representation across
 all of the available bits.
 
+### Architecture
+
+TODO
+### Results
+
+TODO
