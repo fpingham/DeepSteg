@@ -23,7 +23,9 @@ all of the available bits.
 
 ### Architecture
 
-TODO
+![Architecture](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea2.png)
+![Architecture](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea.png)
+
 ### Results
 
 TODO
