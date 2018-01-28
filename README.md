@@ -25,7 +25,7 @@ all of the available bits.
 
 ![Idea](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea.png)
 
-
+asdfa
 ![Architecture](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea2.png)
 
 ### Results
