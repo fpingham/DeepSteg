@@ -1,5 +1,5 @@
 # DeepSteg
-## Implementation of Hidding Images in Plain Sight: Deep Steganography in Pytorch
+## Implementation of _Hidding Images in Plain Sight: Deep Steganography_ in Pytorch
 
 ### History
 
