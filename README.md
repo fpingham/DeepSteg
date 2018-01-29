@@ -1,6 +1,8 @@
 # DeepSteg
 ## Implementation of _Hidding Images in Plain Sight: Deep Steganography_ in Pytorch
 
+This is an unofficial implementation in Pytorch of _Hidding Images in Plain Sight: Deep Steganography_ for the Global NIPS Paper Implementation Challenge 2017. Here is the [original paper](https://papers.nips.cc/paper/6802-hiding-images-in-plain-sight-deep-steganography).
+
 ### History
 
 Steganography is the art of hidding a piece of information in a carrier which, at first glance, carries another piece of information. According to [Wikipedia](https://en.wikipedia.org/wiki/Steganography), the first examples of steganography date back to 440BC (as per Herodotus in Histories) when Hisitaeus sent a message to Aristagoras by shaving the head of a servant, writting a message on his head and ordering him to have his head shaved only upon arrival to transmit the message. The other example is Demaratus who warned about an incoming attack from Xerxes to Greece by hidding it in a wax tablet, between the wood and the wax.
