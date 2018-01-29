@@ -26,10 +26,14 @@ The architecture includes a Prep Network, a Hidding Network and a Reveal Network
 
 ![Idea](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea2.png)
 
+Source: Hidding Images in Plain Sight: Deep Steganography by Shumeet Baluja, 2017
+
 ### Errors
 Error Term 1 (difference between cover and hidding image) is backprops only through first two networks while Error Term 2 (differnce between secret and output image) backprops through all four networks.
 
 ![Errors](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/DeepStegIdea.png)
+
+Source: Hidding Images in Plain Sight: Deep Steganography by Shumeet Baluja, 2017
 
 ### Results
 
