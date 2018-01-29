@@ -1,7 +1,7 @@
 # DeepSteg
 ## Implementation of _Hidding Images in Plain Sight: Deep Steganography_ in Pytorch
 
-This is an unofficial implementation in Pytorch of _Hidding Images in Plain Sight: Deep Steganography_ for the Global NIPS Paper Implementation Challenge 2017. Here is the [original paper](https://papers.nips.cc/paper/6802-hiding-images-in-plain-sight-deep-steganography).
+This is an unofficial implementation in Pytorch of _Hidding Images in Plain Sight: Deep Steganography_ **by Shumeet Baluja (NIPS 2017)** for the Global NIPS Paper Implementation Challenge. Here is the [original paper](https://papers.nips.cc/paper/6802-hiding-images-in-plain-sight-deep-steganography).
 
 ### History
 
