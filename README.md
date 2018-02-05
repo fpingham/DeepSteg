@@ -39,4 +39,4 @@ Source: Hidding Images in Plain Sight: Deep Steganography, Shumeet Baluja, 2017
 
 ### Results
 
-TODO
+WIP: Still fixing minor bugs to perform a full run
