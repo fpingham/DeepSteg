@@ -39,4 +39,10 @@ Source: Hidding Images in Plain Sight: Deep Steganography, Shumeet Baluja, 2017
 
 ### Results
 
-WIP: Still fixing minor bugs to perform a full run
+![Example 1](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/results2.png)
+
+![Example 2](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/results3.png)
+
+![Example 3](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/results4.png)
+
+![Example 4](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/results5.png)
