@@ -39,10 +39,12 @@ Source: Hidding Images in Plain Sight: Deep Steganography, Shumeet Baluja, 2017
 
 ### Results
 
-![Example 1](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/results2.png)
+I finally used a beta of 2 instead of 0.25-0.75 as the paper suggests. The following results are, in order: secret image, output image, cover image and hidden image. These results are after the full run of one epoch.
 
-![Example 2](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/results3.png)
+![Example 4](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/results5.png)
 
 ![Example 3](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/results4.png)
 
-![Example 4](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/results5.png)
+![Example 2](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/results3.png)
+
+![Example 1](https://github.com/lesscomfortable/DeepSteg/blob/master/Images/results2.png)
